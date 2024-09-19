@@ -1,4 +1,6 @@
-
+'''
+programa para reformar el aspecto de una foto
+'''
 import math
 
 def convert_to_16_9(x, y):
