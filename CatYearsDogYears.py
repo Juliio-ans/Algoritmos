@@ -1,3 +1,6 @@
+'''
+Programa para calcular la edad de un perro y un gatp respecto a la de un humano
+'''
 def animal_years(humanYears):
     if humanYears == 1:
         catYears = 15
