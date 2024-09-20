@@ -1,3 +1,6 @@
+'''
+presion
+'''
 def total_pressure(M1, M2, m1, m2, V, T):
     # Constante de gas R en unidades: dm^3⋅atm⋅K^−1⋅mol^−1
     R = 0.082
