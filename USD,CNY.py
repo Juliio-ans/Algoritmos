@@ -1,3 +1,6 @@
+'''
+uds a cny
+'''
 def usd_to_cny(usd):
     conversion_rate = 6.75  # Ejemplo de tasa de conversión (USD a CNY)
     cny = usd * conversion_rate
