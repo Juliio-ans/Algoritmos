@@ -1,3 +1,5 @@
+'''calcula cuantos minutos juega
+'''
 def points_per_48(ppg, mpg):
     if mpg == 0:  # Si el jugador no juega minutos, retorna 0
         return 0
