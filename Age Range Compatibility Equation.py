@@ -1,3 +1,6 @@
+'''
+edad para salir con alguien
+'''
 def dating_range(age):
     if age > 14:
         min_age = age // 2 + 7
