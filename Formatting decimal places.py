@@ -1,3 +1,6 @@
+'''
+redondear a dos decimales
+'''
 def format_number(number):
     return f"{number:.2f}"
 
